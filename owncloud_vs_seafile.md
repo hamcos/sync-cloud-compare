@@ -1,18 +1,18 @@
 # Comparison between Owncloud and Seafile
 
-Please note that the following features are based on ours tests with those programs and some compared features are completely subjective.
+Please note that the following feature list is based on ours tests and some compared features are completely subjective.
 
 Feature                                              | Owncloud                                                                                                        | Seafile
 -------------                                        | -------------                                                                                                   | -------------
 Tested version                                       | ownCloud 6.0.3 (stable) on Debian stable (wheezy)                                                               | Seafile 3.0.4 on Debian stable (wheezy)
-Revision control                                     | Kind of (not so officiant, no diffs)                                                                            | Yes (based on git and works even for bigger binary files)
+Revision control                                     | Kind of (not so efficient, no diffs)                                                                            | Yes (based on git and works even for bigger binary files)
 Possibility to drop old revisions                    | Yes                                                                                                             | Yes
 Backend                                              | PHP, Webserver, SQL Database                                                                                    | C, Python, SQL Database, build in webserver, optional: Webserver like Apache
 Small scale syncing test                             | No complains                                                                                                    | No complains
 syncing experience by others                         | Many complains                                                                                                  | Few complains
 Performance of the web interface (same resources)    | Slow                                                                                                            | Fast
 Sharing folders and files across users               | Yes                                                                                                             | Yes
-User Groups                                          | Yes                                                                                                             | Yes
+User groups                                          | Yes                                                                                                             | Yes
 LDAP or AD authentication                            | Yes                                                                                                             | Yes
 Syncing individual folders                           | [Might](https://github.com/owncloud/mirall/issues/1021), [work](https://github.com/owncloud/mirall/issues/1390) | Yes
 Encryption                                           | Symmetric encryption: Only Server side with login password                                                      | Symmetric encryption: Client side and/or Server side, enable/disable and password per library
