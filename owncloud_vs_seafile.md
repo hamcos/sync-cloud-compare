@@ -19,7 +19,7 @@ Encryption                                           | Symmetric encryption: Onl
 Web interface                                        | Yes                                                                                                             | Yes
 Clients for Windows, Linux, Android and iOS          | Yes                                                                                                             | Yes
 Sending messages                                     | No                                                                                                              | Yes
-License                                              | (AGPLv3)[https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License]                                       | [GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License)
+License                                              | [AGPLv3](https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License)                                       | [GPLv3](https://de.wikipedia.org/wiki/GNU_General_Public_License)
 Calender                                             | Yes                                                                                                             | No
 Task management                                      | Yes                                                                                                             | No
 Contacts and contact syncing                         | Yes                                                                                                             | No
