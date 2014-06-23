@@ -31,3 +31,4 @@ Syntax Highlighting                                  | Yes                      
 Show the difference between reversions of text files | No                                                                                                              | Yes. Based on git.
 Download files from URL to library                   | Yes                                                                                                             | No
 Full text search                                     | Yes                                                                                                             | In the Pro Version
+Web interface easy customizable                      | [Yes](http://owncloud.org/theming/)                                                                             | [Yes](https://github.com/haiwen/seafile/wiki/Seahub-customization)
